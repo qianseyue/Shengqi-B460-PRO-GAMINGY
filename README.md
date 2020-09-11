@@ -2,6 +2,7 @@
 Shengqi B460-PRO GAMINGY（Asus PRIME B460-PLUS）Hackintosh
 
 opencore：0.5.9
+
 OS：macOS 10.15 Catalina
 
 
