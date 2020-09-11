@@ -6,6 +6,8 @@ opencore：0.5.9
 OS：macOS 10.15 Catalina
 
 
+Review: post.smzdm.com/p/a785qkno/
+
 
 CPU：Intel i7-10700
 
