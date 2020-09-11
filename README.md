@@ -1,0 +1,2 @@
+# Shengqi-B460-PRO-GAMINGY
+Shengqi B460-PRO GAMINGY（Asus PRIME B460-PLUS）Hackintosh
