@@ -29,3 +29,9 @@ FAN Case：DEEPCOOL CF120
 
 optional
 Wireless：Intel AX200
+
+default
+
+SSID:qianseyue
+
+Password:abc123456
